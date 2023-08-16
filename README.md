@@ -1,4 +1,4 @@
-### Hi there! I'm Joshua Kim👋
+<h1>Hi there! I'm Joshua Kim👋</h1>
 
 - :open_file_folder: See my portfolio <a href="https://joshk57.github.io/Portfolio-Site/">here</a>
 - 🔭 I’m currently working on <a href="https://github.com/Joshk57/Full-Stack-Project">BudgetBnB</a>
